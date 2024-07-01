@@ -10,6 +10,6 @@ To get started with **exe for linux**, download the latest release from [here](h
 
 1. after you downloaded the exe-for-linux python script, make sure to install python on system
 2. open terminal in where you downloaded the script
-3. run command ./exe-for-linux.py
+3. run command ./setup_exe_for_linux.py
 4. it will make some changes to system and you will be able to run exe on linux
 5. This program uses wine under the hood to make sure exe can run
