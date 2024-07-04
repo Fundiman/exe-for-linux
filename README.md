@@ -13,3 +13,4 @@ To get started with **exe for linux**, download the latest release from [here](h
 3. run command ./setup_exe_for_linux.py
 4. it will make some changes to system and you will be able to run exe on linux
 5. This program uses wine under the hood to make sure exe can run
+6. You may need to run the chmod command to make the script run
